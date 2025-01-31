@@ -1,4 +1,4 @@
-import Hello from "@/app/components/hello";
+import Hello from "@/components/hello";
 
 export default function Home() {
   console.log("Apakah saya server komponen / client komponen");

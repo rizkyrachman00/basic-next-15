@@ -1,4 +1,4 @@
-import { books } from "@/app/api/db";
+import { books } from "@/api/db";
 
 export const PUT = async (
   request: Request,
